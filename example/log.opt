@@ -1,0 +1,30 @@
+INFO:root:Logging level - string: INFO, integer: 20
+INFO:root:Reading trainset file...
+INFO:root:...reading success.
+INFO:root:Reading param file...
+INFO:root:...reading success.
+INFO:root:Reading data files...
+INFO:root:...reading success.
+INFO:root:Initial parameters read.
+INFO:root:history file created.
+INFO:root:Optimization flag turned on, preparing to optimize.
+INFO:root:Writing fort.4 file...
+INFO:root:...writing success.
+INFO:root:Writing energy_table.txt output...
+INFO:root:Writing charge_table.txt output...
+INFO:root:Writing force_table.txt output...
+INFO:root:...energy_table.txt success
+...charge_table.txt success
+...force_table.txt success
+INFO:root:Writing fort.99 output...
+INFO:root:...writing success.
+INFO:root:Optimal parameters:   status: 0
+ success: True
+    njev: 28
+    nfev: 164
+     fun: 0.17223911302953898
+       x: array([ 0.16113931,  3.58214659,  0.53064136])
+ message: 'Optimization terminated successfully.'
+     jac: array([-0.00424585, -0.00325917,  0.00494737,  0.        ])
+     nit: 28
+INFO:root:Time of optimization: 34.955

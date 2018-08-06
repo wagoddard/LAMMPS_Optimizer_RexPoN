@@ -1,0 +1,26 @@
+This LAMMPS simulation made specific use of work described in the
+following references.  See http://lammps.sandia.gov/cite.html
+for details.
+
+pair rexpon command:
+
+@Article{Naserifar,
+ author = {S. Naserifar, W. A. Goddard III},
+ title = {},
+ journal = {},
+ year =    2018,
+ volume =  ,
+ pages =   {--}
+}
+
+fix pqeq command:
+
+@Article{NaserifarPQEq,
+ author = {S. Naserifar, D. J. Brooks, W. A. Goddard III, V. Cvicek},
+ title = {Polarizable charge equilibration model for predicting accurate electrostatic interactions in molecules and solids},
+ journal = {The Journal of Chemical Physics},
+ year = {2017},
+ volume = {146},
+ pages = {124117}
+}
+

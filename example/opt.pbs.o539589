@@ -1,0 +1,24 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+                  THIS SYSTEM IS FOR AUTHORIZED USE ONLY
+   System managers may monitor and record activities on this system in
+   the course of maintenance or investigations into improper usage.
+   Anyone using this system expressly consents to such monitoring and is
+   advised that any resulting evidence of criminal activity may be
+   provided to law enforcement officials.
+
+   ------------
+   o The MSC group WIKI is available at https://wiki.wag.caltech.edu
+
+   o Computer problems and questions should be sent to help@wag.caltech.edu
+   ------------
+
+  status: 0
+ success: True
+    njev: 28
+    nfev: 164
+     fun: 0.17223911302953898
+       x: array([ 0.16113931,  3.58214659,  0.53064136])
+ message: 'Optimization terminated successfully.'
+     jac: array([-0.00424585, -0.00325917,  0.00494737,  0.        ])
+     nit: 28

@@ -1,0 +1,67 @@
+OPTIMIZER
+polar 0
+finish slsqp
+valence 0
+method 1
+algorithm slsqp
+FFIELD
+rexpon
+CONTROL
+units real
+boundary p p p
+atom_style pqeq
+ELECTRO
+1 1 8.74100   13.36400    0.80280  1 1.000000 0.80280  814.04451    0.00000
+2 2 7.01672   10.22431    0.79554  1 1.000000 0.79554  377.67208    0.00000
+HYDROGEN_BOND
+VDW
+1 1 0.167402 3.424880 0.414074 1.0000 -1.0000 -1.0000 1.003485 1.0 1.02009 0.0167848 0.00327294 0.00365706 0.00106613
+2 2 0.026961 4.349410 0.489888 1.0000 -1.0000 -1.0000 1.003485 1.0 1.02009 0.0167848 0.00327294 0.00365706 0.00106613
+1 2 0.067181 3.859561 0.450389 1.0000 -1.0000 -1.0000 1.003485 1.0 1.02009 0.0167848 0.00327294 0.00365706 0.00106613
+BONDS
+ATOMS
+O  -1.0000   1.0000   1.0000   1.0000   1.0000   1.0000  -1.0000   1.0000 1.0000   0.0000   0.0000   0.0000   1.0000   1.0000   1.0000  -1.0000 -1.0000   0.0000   1.0000   1.0000   1.0000   1.0000   1.0000   0.0000 -1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   0.0000   1.0000 1.0000   1.0000   1.0000
+C  -1.0000   1.0000   1.0000   1.0000   1.0000   1.0000  -1.0000   1.0000 1.0000   0.0000   0.0000   0.0000   1.0000   1.0000   1.0000  -1.0000 -1.0000   0.0000   1.0000   1.0000   1.0000   1.0000   1.0000   0.0000 -1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   0.0000   1.0000 1.0000   1.0000   1.0000
+ANGLES
+FFIELD
+GENERAL
+50.0000 !Overcoordination parameter
+9.5469 !Overcoordination parameter
+26.5405 !Valency angle conjugation parameter
+3.0000 !Triple bond stabilisation parameter
+6.5000 !Triple bond stabilisation parameter
+0.0000 !C2-correction
+1.0588 !Undercoordination parameter
+9.0000 !Triple bond stabilisation parameter
+12.1176 !Undercoordination parameter
+13.3056 !Undercoordination parameter
+0.0000 !Triple bond stabilization energy
+0.0000 !Lower Taper-radius
+12.0000 !Upper Taper-radius
+2.8793 !Not used
+33.8667 !Valency undercoordination
+6.0891 !Valency angle/lone pair parameter
+1.0563 !Valency angle
+2.0384 !Valency angle parameter
+6.1431 !Not used
+6.9290 !Double bond/angle parameter
+0.3989 !Double bond/angle parameter: overcoord
+3.9954 !Double bond/angle parameter: overcoord
+1.0000 !Scale factor (S) in dispersion
+5.7796 !Torsion/BO parameter
+10.0000 !Torsion overcoordination
+1.9487 !Torsion overcoordination
+-1.2327 !Conjugation 0 (not used)
+2.1645 !Conjugation
+1.5591 !vdWaals shielding
+1.0100 !Cutoff for bond order (*100)
+2.1365 !Valency angle conjugation parameter
+1.5001 !Overcoordination parameter
+3.2593 !Overcoordination parameter
+1.8512 !Valency/lone pair parameter
+0.5000 !Not used
+1.0000 !Scale factor (d) in dispersion
+5.0000 !Molecular energy (not used)
+0.0000 !Molecular energy (not used)
+2.6962 !Valency angle conjugation parameter
+DIHEDRALS
