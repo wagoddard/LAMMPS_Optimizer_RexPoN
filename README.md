@@ -138,7 +138,7 @@ ENDCHARGE
 Support
 -------
 
-- Contact Julius Oppenheim (joppenhe@caltech.edu) or Saber Naserifar (naseri@caltech.edu)
+- Contact Saber Naserifar (naseri@caltech.edu)
 
 License
 -------
