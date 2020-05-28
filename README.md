@@ -1,5 +1,5 @@
 # LAMMPS_Optimizer_RexPoN
-LAMMPS Optimizer
+
 ================
 
 The LAMMPS Optimizer is able to optimize any parameters used in a LAMMPS calculation to a given training set.
